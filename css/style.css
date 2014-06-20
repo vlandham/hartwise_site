@@ -3,7 +3,22 @@ body, input, textarea {
   font-family: Georgia, "Times New Roman", Serif;
 }
 
+#main {
+  padding-top:15px;
+}
+
 #main p {
   font-size: 30px;
   line-height: 50px;
+}
+
+.title {
+  margin: auto;
+  text-align:center;
+  font-family: 'Merriweather', serif;
+}
+
+#vis {
+  width:600px;
+  margin:auto;
 }
